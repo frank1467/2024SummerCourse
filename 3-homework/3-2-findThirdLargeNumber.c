@@ -22,6 +22,7 @@ int main(){
 
 
 
+
     // output
     printf("The third largest number is: %d\n", thirdLargest);
 
