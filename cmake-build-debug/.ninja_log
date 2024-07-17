@@ -1,0 +1,21 @@
+# ninja log v6
+2	219	7428962998244368	build.ninja	e5b2f26e97a00ef0
+120	256	7425932771983131	1-dataType-io/main.exe	8aeb659c7934f3cd
+91	190	7423035294425627	code_2024summer.exe	1532ad30d17c6350
+2	119	7425932770792525	1-dataType-io/CMakeFiles/main.dir/main.c.obj	b9d74cfc9ed1dad2
+67	179	7427515088585030	2-if-for-break-continue/for.exe	b8ed6941f3f0d003
+2	70	7425932985656461	1-dataType-io/CMakeFiles/bigNumberEatSmallNumber.dir/bigNumberEatSmallNumber.c.obj	4095336bf31b6fda
+2	64	7425933095465985	1-dataType-io/CMakeFiles/inputAndOutput.dir/inputAndOutput.c.obj	d8088fc837c6acf4
+71	174	7425932986340763	1-dataType-io/bigNumberEatSmallNumber.exe	1bba176726902b4a
+66	165	7425933096102697	1-dataType-io/inputAndOutput.exe	1174b545c324504
+4	67	7427515087966093	2-if-for-break-continue/CMakeFiles/for.dir/for.c.obj	89861000d2bde8a0
+5	79	7427519570828492	2-if-for-break-continue/CMakeFiles/break-continue.dir/break-continue.c.obj	329d4803545729d
+79	191	7427519571577600	2-if-for-break-continue/break-continue.exe	9746397c78dc1b6f
+5	80	7427507040709675	2-if-for-break-continue/CMakeFiles/if.dir/if.c.obj	566f8ef335fe74e5
+80	186	7427507041459153	2-if-for-break-continue/if.exe	cdbb3765ce70ff65
+72	176	7428953389163032	3-while-functions/while.exe	d88d77fdc365f7e0
+4	71	7428953388481443	3-while-functions/CMakeFiles/while.dir/while.c.obj	cc9aa980cc659d0c
+3	60	7428960318129041	3-homework/CMakeFiles/3-1-mergeTwoArray.dir/3-1-mergeTwoArray.c.obj	e5f9fb180068abd6
+61	158	7428960318705696	3-homework/3-1-mergeTwoArray.exe	ce64aceec784e1cd
+4	540	7428963233909652	3-homework/CMakeFiles/3-2-findThirdLargeNumber.dir/3-2-findThirdLargeNumber.c.obj	8f30e0d33848d227
+541	892	7428963239288624	3-homework/3-2-findThirdLargeNumber.exe	386308d0f4a995ae
